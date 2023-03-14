@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityadhunna
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React, mern and full stack web dev.
 - 📫 How to reach me :- 
 
 <!---
